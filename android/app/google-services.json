@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129817098477",
+    "project_id": "insta-phishing-15928",
+    "storage_bucket": "insta-phishing-15928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129817098477:android:70bde7c89a36720de674e4",
+        "android_client_info": {
+          "package_name": "com.example.insta_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129817098477-abv4nvf7c2836sppdeetkc1d6203dtbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIrEh8Ymv50fQ7zr-4A43CuwHWCqT3U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129817098477-abv4nvf7c2836sppdeetkc1d6203dtbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
